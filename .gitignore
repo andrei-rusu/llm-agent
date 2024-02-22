@@ -1,7 +1,12 @@
+langchain/
+testing/
+uploaded/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+.vscode
 
 # C extensions
 *.so
