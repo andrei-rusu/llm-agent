@@ -1,4 +1,4 @@
-# LLM agents for querying documents and searching the web
+# LLMs for querying documents and searching the web
 
 A codebase containing different LLM projects implemented using LangChain and Streamlit. 
 
